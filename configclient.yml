@@ -1,2 +1,4 @@
-app.name=Configuration Server
-app.env=springcloudchannel-uat.properties
+app:
+ name:Configuration Server
+app:
+ env:springcloudchannel-uat.properties
