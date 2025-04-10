@@ -1,2 +1,2 @@
 app:
- name: Welcome from Spring Cloud Config Server!-default
+ name: Hello from Spring Cloud Config Server!-default
