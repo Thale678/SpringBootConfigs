@@ -1,1 +1,2 @@
-
+app.name=Congig Server
+app.env=springcloudchannel-uat.properties
