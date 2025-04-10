@@ -1,4 +1,1 @@
-app:
- name:Configuration Server
-app:
- env:springcloudchannel-uat.properties
+message: Welcome from Spring Cloud Config Server!
